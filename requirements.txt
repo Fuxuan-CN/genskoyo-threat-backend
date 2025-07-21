@@ -1,0 +1,6 @@
+loguru
+sqlalchemy
+pydantic
+uvicorn
+fastapi
+aiosqlite
